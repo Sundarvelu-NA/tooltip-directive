@@ -10,5 +10,4 @@ In this repo you will find the codebase for two-part tutorial on creating your o
 
 ![Angular Tooltip Example - dynamic tooltips](/canvas.gif)
 
-To launch the App, just run `ng serve` for a dev server and navigate to `http://localhost:4200/`.
 
